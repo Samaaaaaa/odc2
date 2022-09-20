@@ -6,7 +6,7 @@ include './shared/nav.php';
 
 
 <div class="home">
-    <h1 class="text-center  pt-5"> Welecome to Homa page test</h1>
+    <h1 class="text-center  pt-5"> Welecome to Homa page</h1>
 </div>
 
 
